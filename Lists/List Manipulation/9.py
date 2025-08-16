@@ -1,2 +1,3 @@
-mylist=[1,2,3,4,5]
+mylist=[1,2,3,5,4]
 mylist.sort()
+print(mylist)
