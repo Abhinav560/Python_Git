@@ -1,3 +1,3 @@
 def divide(x,y):
     return x/y
-print(devide(3,2))
+print(divide(3,2))
